@@ -1,0 +1,20 @@
+{
+    "name": "13.8",
+    "version": "1.0.0",
+    "description": "Zadanie 13.8 Nasz własny serwer HTTP",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Epinefryna/13.8.git"
+    },
+    "author": "Marcin Sornek",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Epinefryna/13.8/issues"
+    },
+    "homepage": "https://github.com/Epinefryna/13.8#readme"
+}
